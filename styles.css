@@ -86,8 +86,7 @@ p {
 	grid-template-columns: 1fr;
 }
 form {
-
-    padding: 40px;	
+    padding: 30px;	
 }
 .form-element {
 	margin-bottom: 20px;
@@ -110,12 +109,12 @@ p {
     text-align: justify;
     text-justify: inter-word;
   	padding-left: 0;
-
   }
   .wrapper {
  
 }
 form {
+   padding: 30px;	
 }
 
 }
